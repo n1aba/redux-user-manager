@@ -1,0 +1,12 @@
+.delete-btn{
+  margin-left: 15px;
+  border-radius: 5px;
+  padding: 1px 30px 1px 30px;
+  font-size: 15px;
+  text-decoration: none;
+  margin: 5px;
+  color: #fff;
+  background-color: #FF6656;
+  position: relative;
+  display: inline-block;
+}

@@ -1,0 +1,36 @@
+{
+  "name": "redux-user-manager",
+  "version": "1.0.0",
+  "description": "A simple redux user manager component implementation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/94117nl/redux-user-manager.git"
+  },
+  "author": "94117nl",
+  "license": "MIT",
+  "homepage": "https://github.com/94117nl/redux-user-manager.git",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.11.4",
+    "babel-loader": "^6.2.4",
+    "babel-polyfill": "^6.9.1",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "express": "^4.14.0",
+    "history": "^2.0.0",
+    "raw-loader": "^0.5.1",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "redux": "^3.5.2",
+    "react-redux": "^4.4.5",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1",
+    "webpack-dev-middleware": "^1.6.1",
+    "webpack-hot-middleware": "^2.12.1"
+  }
+}
